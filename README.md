@@ -1,4 +1,4 @@
-# MerahLabs.id
+# MerahLabs.tech
 
 
 License : MIT
